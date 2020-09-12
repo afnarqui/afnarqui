@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Naranjo</h1>
-<h3 align="center">Desarrollador por pasión</h3>
+<h3 align="center">Lo importante no es lo qué sabes, sino que tan rápido aprender</h3>
 
 - 🔭 Actualmente estoy trabajando en Coru [CuruApp](www.coruapp.com)
 
