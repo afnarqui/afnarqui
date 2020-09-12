@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrés Naranjo</h1>
-<h3 align="center">Lo importante no es lo qué sabes, sino que tan rápido aprender</h3>
+<h3 align="center">"Lo importante no es lo que uno sabe, sino que tan rápido aprende"
+— Robert Kiyosaki</h3>
 
 - 🔭 Actualmente estoy trabajando en Coru [CuruApp][coru]
 
