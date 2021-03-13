@@ -2,7 +2,7 @@
 <h3 align="center">"Lo importante no es lo que uno sabe, sino que tan rápido aprende"
 — Robert Kiyosaki</h3>
 
-- 🔭 Actualmente estoy trabajando en Coru [ingecall][ingecall]
+- 🔭 Actualmente estoy trabajando en IngeCall [ingecall][ingecall]
 
 [![N|Solid](https://firebasestorage.googleapis.com/v0/b/andresnaranjo-marcapersonal.appspot.com/o/css%2Ffotoreadme.PNG?alt=media&token=ef2396c7-d324-4e2d-993c-cc4e397a0ec5)](https://firebasestorage.googleapis.com/v0/b/andresnaranjo-marcapersonal.appspot.com/o/css%2Ffotoreadme.PNG?alt=media&token=ef2396c7-d324-4e2d-993c-cc4e397a0ec5)
 
