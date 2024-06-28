@@ -14,7 +14,7 @@
 
 [ss]: https://san-web-200c8.web.app
 
-[sophos]: [(https://menu.sophossolutions.com)/](https://menu.sophossolutions.com/)
+[sophos]: https://menu.sophossolutions.com
 
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </p>
