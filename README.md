@@ -2,7 +2,7 @@
 <h3 align="center">"Lo importante no es lo que uno sabe, sino que tan rápido aprende"
 — Robert Kiyosaki</h3>
 
-- 🔭 Actualmente estoy trabajando en IngeCall [ingecall][ingecall]
+- 🔭 Actualmente estoy trabajando en Sophos solutions [ingecall][ingecall]
 
 [![N|Solid](https://firebasestorage.googleapis.com/v0/b/andresnaranjo-marcapersonal.appspot.com/o/css%2Ffotoreadme.PNG?alt=media&token=ef2396c7-d324-4e2d-993c-cc4e397a0ec5)](https://firebasestorage.googleapis.com/v0/b/andresnaranjo-marcapersonal.appspot.com/o/css%2Ffotoreadme.PNG?alt=media&token=ef2396c7-d324-4e2d-993c-cc4e397a0ec5)
 
@@ -12,9 +12,9 @@
 
 [Software San][ss]
 
-[ss]: https://viboafn.com
+[ss]: https://san-web-200c8.web.app
 
-[ingecall]: https://www.ingecall.com/
+[ingecall]: [https://www.ingecall.com/](https://menu.sophossolutions.com/)
 
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </p>
